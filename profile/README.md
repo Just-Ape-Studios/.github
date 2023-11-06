@@ -28,8 +28,8 @@ As we navigate and innovate within this digital frontier, we're not just shaping
 
 ## Connect with Us
 
-- [Website](bit.ly/justapestudios)
-- [Discord](discord.gg/justape)
+- [Website](https://bit.ly/justapestudios)
+- [Discord](https://discord.gg/justape)
 - [Twitter](https://twitter.com/JustApeStudios)
 - [Medium Blog](https://medium.com/@Just_Ape)
 
