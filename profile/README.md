@@ -1,7 +1,5 @@
 ## Hi there 🙈🙉🙊
 
-# Just Ape Studios
-
 Welcome to the official GitHub organization of Just Ape Studios - the team behind *Just Ape*, *Apes Across Worlds*, and *ApeLend*.
 
 ## About Us
